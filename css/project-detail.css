@@ -1,3 +1,11 @@
+.hamburger-nav-container .hamburger-active {
+
+    font-weight: bold;
+
+
+
+}
+
 @media only screen and (max-width: 900px) {
 
     .project-detail .project-detail-container h1 {
