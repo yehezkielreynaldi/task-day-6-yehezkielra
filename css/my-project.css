@@ -586,6 +586,14 @@ textarea {
     transform: scale(1.1);
 }
 
+.checkbox-b .input-typescript {
+    margin-left: 97.5px;
+}
+
+.checkbox-b .input-react {
+    margin-left: 1px;
+}
+
 }
 
 @media only screen and (max-width: 550px) {
